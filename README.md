@@ -10,4 +10,5 @@ spring jpa boilerplate
 * Spring
 * jpa-hibernate
 * Mybaits
+* MySQL
 
